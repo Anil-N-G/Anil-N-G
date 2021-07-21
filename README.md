@@ -1,9 +1,10 @@
+
+
+<img align="center" height="400" width="900" src="https://lh3.googleusercontent.com/K6P6Q91O7ocjbqfU8AmMFagkhotzJDtAYnG_Q8-av75PJFRGnXuvQStxIqxGTrFYyHSx=s170" alt="Anil-N-G" /> 
 <h1 align="center">Hi 👋, I'm Anil N</h1>
 <h3 align="center">A passionate, self motivated tech enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-n-g&label=Profile%20views&color=0e75b6&style=flat" alt="anil-n-g" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anil-n-g" alt="anil-n-g" /></a> </p>
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
