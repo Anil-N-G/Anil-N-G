@@ -1,7 +1,9 @@
  
 <h1 align="center">Hi 👋, I'm Anil N</h1>
 <h3 align="center">A passionate, self motivated tech enthusiast.</h3>
-
+<p align="center">
+    <a href="https://github.com/Anil-N-G"><img src="forkit.gif "/></a> 
+</p>
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
