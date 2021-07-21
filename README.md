@@ -1,9 +1,6 @@
-
-
-<img align="center" height="400" width="900" src="https://lh3.googleusercontent.com/K6P6Q91O7ocjbqfU8AmMFagkhotzJDtAYnG_Q8-av75PJFRGnXuvQStxIqxGTrFYyHSx=s170" alt="Anil-N-G" /> 
+ 
 <h1 align="center">Hi 👋, I'm Anil N</h1>
 <h3 align="center">A passionate, self motivated tech enthusiast.</h3>
-
 
 
 - 🔭 I’m currently working on **Improving my coding skills**
