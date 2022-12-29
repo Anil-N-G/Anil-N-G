@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
-- 🌱 I’m currently learning **Full Stack Development(MERN).**
+- 🌱 I’m currently learning **Android Development.**
+
+- 👨‍💻 I’m good in **C, C++, Python**
 
 - 💬 Ask me about **Programming and Tech stuffs.**
 
